@@ -4,7 +4,6 @@
 
 # Grupo 95:
 # ist1103243 João Santos
-# Diogo Ceia
 
 import sys
 import numpy as np
